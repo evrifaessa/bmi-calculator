@@ -1,2 +1,3 @@
-# bmi-calculator
-Pretty basic Body Mass Index calculator in Python
+# Body Mass Index Calculator
+
+I was bored, wanted to learn Python and needed something to procrastinate with. So here is a pretty basic Body Mass Index calculator in Python.
